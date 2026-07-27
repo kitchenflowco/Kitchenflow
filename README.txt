@@ -1,14 +1,14 @@
-KitchenFlow MVP v0.3
+KitchenFlow v0.4
 
-1. Extract the ZIP.
-2. Open index.html in Chrome, Edge, Firefox, or Safari.
-3. The prototype saves changes on the current device using browser local storage.
+Changes:
+- Removed duplicate dashboard cards
+- Added working production tracking
+- Added produced, leftover, waste, and complete fields
+- Dashboard updates from production entries
+- Added explainable forecasting
+- Kept the workflow focused on cooks and shift leaders
 
-Working features:
-- Dashboard
-- Editable production plan
-- Recipe creation, search, and scaling prompt
-- Explainable production forecast
-- Kitchen equipment profile
-
-Next build step: host it online, then add login and a real shared database.
+Upload and replace these files in GitHub:
+- index.html
+- styles.css
+- app.js
