@@ -1,14 +1,5 @@
-KitchenFlow v0.4
+KitchenFlow v0.5
 
-Changes:
-- Removed duplicate dashboard cards
-- Added working production tracking
-- Added produced, leftover, waste, and complete fields
-- Dashboard updates from production entries
-- Added explainable forecasting
-- Kept the workflow focused on cooks and shift leaders
+New: date, meal, station, assignment, selected-day production, optional prep-ahead, recipe links, forecast/planned/produced/leftover/waste, notes, complete, running-low, shift handoff, and configurable settings.
 
-Upload and replace these files in GitHub:
-- index.html
-- styles.css
-- app.js
+Upload and replace index.html, styles.css, and app.js in GitHub. Vercel should redeploy automatically.
